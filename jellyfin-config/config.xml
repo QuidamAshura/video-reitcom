@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JellyfinServerConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ServerName>reitcom videos</ServerName>
+  <ServerPort>8096</ServerPort>
+  <PublicServerUrl>https://video.reitcom.net</PublicServerUrl>
+  <SslPort>443</SslPort>
+  <SslCertificatePath>/config/ssl/certificado.pem</SslCertificatePath>
+  <SslKeyPath>/config/ssl/clave.pem</SslKeyPath>
+  <EnableHttpsRedirection>true</EnableHttpsRedirection>
+</JellyfinServerConfiguration>
